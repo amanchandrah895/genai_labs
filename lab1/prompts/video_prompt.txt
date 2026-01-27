@@ -1,0 +1,16 @@
+Act as a professional promotional script writer for university events.
+I am creating a 30-second promotional video for a workshop titled “Foundations of Generative AI and Its Applications” at RV University, Bengaluru (Lecture Hall Complex).
+
+First, outline the logical flow of the video in this order:
+
+Opening hook
+
+What the workshop is about
+
+What students will learn
+
+Who should attend
+
+Call to action
+
+After outlining the flow, write the final 30-second narration script using short, clear sentences suitable for AI voice-over.

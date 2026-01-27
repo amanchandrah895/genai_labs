@@ -1,0 +1,26 @@
+Subject: Workshop Announcement – Foundations of Generative AI and Its Applications
+Dear Students,
+The Department of Engineering at RV University is delighted to announce a one-day workshop on "Foundations of Generative AI and Its Applications" for undergraduate engineering students.
+Purpose:
+This workshop aims to introduce students to the fundamental concepts of generative AI and demonstrate its transformative applications across engineering disciplines.
+Event Details:
+Date: Friday, January 17, 2026
+Time: 9:30 AM – 4:30 PM
+Venue: Lecture Hall Complex, RV University, Bengaluru
+Key Topics:
+
+Introduction to generative AI and machine learning basics
+Popular AI tools: ChatGPT, DALL-E, and GitHub Copilot
+Applications in software development, design, and research
+Hands-on demonstrations and interactive sessions
+
+Benefits:
+Participants will gain practical insights into leveraging AI tools for academic projects, research, and career readiness in an AI-driven industry.
+Registration:
+Register by January 15, 2026, via the university portal or email genai.workshop@rvu.edu.in with your name, registration number, and branch.
+Contact:
+For further information, contact the Academic Coordination Office at +91-80-XXXX-XXXX.
+We look forward to your enthusiastic participation!
+Warm regards,
+Academic Coordination Office
+RV University, BengaluruClaude is AI and can make mistakes. Please double-check responses.

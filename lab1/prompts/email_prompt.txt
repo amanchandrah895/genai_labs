@@ -1,0 +1,18 @@
+Role
+Act as a professional academic coordinator at RV University.
+Task
+Draft a formal launch email announcing a one-day workshop on “Foundations of Generative AI and Its Applications.”
+Context
+The workshop is organized for undergraduate engineering students at RV University, Bengaluru. The venue is Lecture Hall Complex, RV University, Bengaluru. The event will be held next Friday.
+Constraints
+The email must include the following clearly:
+* Purpose of the workshop
+* Date and venue
+* Target audience
+* Key topics covered
+* Benefits for students
+* Registration instructions
+* Contact or coordination reference
+Use a professional, academic, and motivating tone.
+The length must be between 180 and 200 words.
+Format the email using clear paragraphs and include a subject line.
